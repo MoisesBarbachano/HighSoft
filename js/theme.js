@@ -60,7 +60,7 @@ function BannerVideoSlider () {
       sliderType:"standard",
       sliderLayout:"auto",
       loops:false,
-      delay:10000,
+      delay:7000,
       navigation: {
           arrows: {
                     style: "hermes",

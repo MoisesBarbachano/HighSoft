@@ -197,7 +197,7 @@ animation-delay: .8s;
   overflow-x:hidden;
 }
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
- h1,h2,h3,h4,h5,h6 {color:#292929; text-transform: uppercase;font-weight: 700;}
+ h1,h2,h4,h5,h6 {color:#292929; text-transform: uppercase;font-weight: 700;}
  h1 {font-size: 48px;}
  h2 {font-size: 36px;}
  h3 {font-size: 28px;}
@@ -510,6 +510,7 @@ animation-delay: .8s;
   text-align: center;
   margin-bottom: 20px;
   padding: 118px 23px 65px 23px;
+  height: 350px;
   overflow: hidden;
 }
 #service-section .single-service-content p {
@@ -843,8 +844,8 @@ animation-delay: .8s;
 }
 #team-section .team-member-wrapper .single-team-member .member-name ul li:nth-child(3) a,
 .blog-details-post-wrapper .post-share-area .share-icon li:nth-child(4) a {
-  color: #d8545d;
-  border-color:#d8545d;
+  color: #0E76A8;
+  border-color:#0E76A8;
 }
 #team-section .team-member-wrapper .single-team-member .member-name ul li:nth-child(4) a,
 .blog-details-post-wrapper .post-share-area .share-icon li:nth-child(5) a {
@@ -859,9 +860,17 @@ animation-delay: .8s;
 .blog-details-post-wrapper .post-share-area .share-icon li:nth-child(3) a:hover {
   background: #70c2e9;
 }
+#twitter-second:hover{
+  background: #70c2e9 !important;
+  color: #ffffff !important;
+}
+#linkedin-second:hover{
+  background: #0E76A8 !important;
+  color: #ffffff !important;
+}
 #team-section .team-member-wrapper .single-team-member .member-name ul li:nth-child(3) a:hover,
 .blog-details-post-wrapper .post-share-area .share-icon li:nth-child(4) a:hover {
-  background: #d8545d;
+  background: #0E76A8;
 }
 #team-section .team-member-wrapper .single-team-member .member-name ul li:nth-child(4) a:hover,
 .blog-details-post-wrapper .post-share-area .share-icon li:nth-child(5) a:hover {
@@ -1304,8 +1313,8 @@ footer ul li:nth-child(2) a {
   border-color:#70c2e9;
 }
 footer ul li:nth-child(3) a {
-  color: #d8545d;
-  border-color:#d8545d;
+  color: #0E76A8;
+  border-color:#0E76A8;
 }
 footer ul li:nth-child(4) a {
   color: #007ab9;
@@ -1334,7 +1343,7 @@ footer ul li:nth-child(2) a:hover {
   background: #70c2e9;
 }
 footer ul li:nth-child(3) a:hover {
-  background: #d8545d;
+  background: #0E76A8;
 }
 footer ul li:nth-child(4) a:hover {
   background: #007ab9;
