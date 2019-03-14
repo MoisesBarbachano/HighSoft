@@ -1,0 +1,90 @@
+@media only screen and (max-width: 1000px) {
+    .buttons-menu > div{
+        margin: 10vh 10px 0vh 10px !important;
+    }
+}
+@media only screen and (max-width: 850px) {
+    .iconOption{
+        width: 50px !important;
+    }
+    .buttons-menu > div{
+        margin: 0px 2px !important;
+    }
+    .buttons-menu label{
+        font-size: 12px;
+    }
+    #select_project_button{
+        width: 105px;
+        margin: 26px 20px 26px 20px !important;
+    }
+}
+
+
+.buttonsOptions{
+
+    background-color: #4E73DF;
+    border-color: #4E73DF;
+    color:white;
+    border-radius: 22px;
+}
+
+.title-select{
+    font-weight: 300;
+}
+.title-project{
+    visibility:hidden;
+    font-weight: 300;
+}
+
+.iconOption{
+    margin: 26px 20px;
+    width: 100px;
+}
+
+#select_project_button{
+    width: 105px;
+    margin: 20px 20px 27px 20px;
+}
+
+.container-complete{
+    height: 100vh;
+}
+
+.center-vertical-my{
+    padding-top: 10vh;
+}
+.center-vertical-principal{
+    padding-top: 18vh;
+}
+
+
+.options-buttons{
+    margin-top: 14vh;
+}
+
+.space-button-left{
+    margin-right: 5vw;
+}
+
+.space-button-right{
+    margin-left: 5vh;
+}
+
+.buttons-menu > div{
+    margin: 10vh 2vw;
+    margin: 5vh 2vw 0px 2vw !important;
+}
+
+#imageProject{
+    visibility: hidden;
+    border-radius: 50%;
+    height: 100px;
+}
+
+#image-dataCapture{
+    margin: 38px 20px 14px 20px;
+}
+
+body{
+    display:none;
+}
